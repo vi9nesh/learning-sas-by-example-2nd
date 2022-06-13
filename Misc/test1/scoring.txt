@@ -1,0 +1,2 @@
+ID=1 Score1=90 Score2=95 Score3=98
+ID=2 Score1=78 Score2=77 Score3=99
